@@ -5,6 +5,9 @@
 title: Human x Digital Tech
 # Short bio or description (displayed in the header)
 description: A blog about the scope and significance of the field of digital humanities by a wide-eyed Communication major.
+# Build settings
+markdown: kramsown
+theme:minima
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
