@@ -69,3 +69,5 @@ It is my understanding that this project is not complete. The team said as much 
 The main pages, “José Antonia Aponte,” “Image Gallery,” “Aponte’s Library,” “Aponte’s Havana,” and “Trial Transcript” and “Láminas” (both under “Book of Paintings”), work together to paint a picture of more than just a historical figure. With the images and quotes from Aponte, even the list of what is in the book, is a peak into life and hope in 1800s Cuba. With this echo of Aponte's work, the inspiration for another revolution will live on. 
 
 ![Digital Aponte site header](https://1drv.ms/u/s!Ar5q8Q_UGkel9WvXJycp_I5hEKc-?e=9DEbkm)
+
+![Digital Aponte site header](file:///C:/Users/wlflo/OneDrive/Documents/ENGL%20350/DA%20library%20shelf.png)
