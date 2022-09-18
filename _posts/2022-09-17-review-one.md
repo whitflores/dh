@@ -54,7 +54,7 @@ As someone who speaks both languages, it was difficult to determine how much wou
  
 The láminas were all in their original Spanish, but the scholars’ commentary was in English. On their “Site’s News” page, there is an update from 5/20/2018 that explains the annotations,
  
-_”One of our goals in creating the website was to make the archival trial record, where Aponte describes his book, as accessible as possible. The annotations clarify portions of the trial record and help explain the visual references Aponte makes in his images.”_
+_"One of our goals in creating the website was to make the archival trial record, where Aponte describes his book, as accessible as possible. The annotations clarify portions of the trial record and help explain the visual references Aponte makes in his images.”_
  
 The annotations are very helpful. However, without being able to read in both languages,  you will miss a part of the story. You can use Google Translate to translate each page to you, but it will not be as accurate as a true, mindful translation. There is context lost without it.
  
