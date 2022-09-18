@@ -22,14 +22,12 @@ The foundation for the project was set at a 2015 conference called, “José Ant
 Visually, the website is simple, which works well. There is a lot of information and layers, so a complicated layout would have been too  much. The site was slow to load every page, which may be annoying to a user as well as unavoidable on the part of the team. I found the project to be easy to navigate because of clear titling and explanation for links. Thematically, referring to page layouts, fonts, and color scheme, the project is pretty in a way that suits the content. The serif font of the main text has a light, fancy, antique, handwritten feel to it, but this flavorful touch does not make the text unreadable. However, the font of the headers is an antique calligraphy font that might be difficult for some people to read.
  
 The mobile version has no major differences from the desktop version. The project is functional on mobile devices but not optimized for them.
- 
-**[IMAGE]**
- 
+  
 ## External Links
  
 For the most part, the website is self-contained. This keeps viewers from having to jump to other sites. The project only has two links on the main pages which lead away from the site. One is on the page “Aponte’s Havana,” which has a map of Cuba. Above the map is an explanation that it has plots “represented in his book” and “relevant to [Aponte's] life in Cuba.” Viewing the map requires clicking to an external page called ThingLink. This website holds only the map. The ThingLink adds an interactive layer to the map which allows the viewer to hover over different points for more information.  Keeping the original page and external page simple makes it easy to use. The added feature  of interactivity makes the jump worth it. 
 
-**[IMAGE]**
+![Digital Aponte page with link to map of Havana side-by-side with ThingLink page](https://dsm01pap002files.storage.live.com/y4m09kM08ZLodPFsbs8e1xPh0bt8kfMrSWrmfYhCfJtgoF0GBLAMUaAxvbsKHtNG7QqLrWk5ZlOHeatCFUMy92llF4LKdwmdi7zaw6e_-LKsPmOHY3QfkBc8ciK_M_Yl0WvFPAlS6OeQpUbwM-BwO1JcNyZAZ_jG1Yav9-MNGQS028CCECeaELUqkq0NqUsTA4H?width=1845&height=922&cropmode=none)
 
 On the “Trial Transcript” page, there is a link to download a transcript of the testimony. It did not download the PDF, instead opening it in a new tab. It is not clear why they decided to leave this as a separate document as everything else was on the site. It may have been something out of their control, such as copyright permissions. I would recommend fixing the description of the PDF to make it clear to users that you do not have to download it to view. Some people try to avoid downloads as much as possible.
  
@@ -39,9 +37,12 @@ Aside from the map of “Aponte’s Havana” and “Aponte’s Library,” whic
  
 ## Aponte’s library
  
-The page for “Aponte’s Library” contains a visual that is simple and functional, as well as creative. It shows a shelf of books Aponte owned with the option to click for more information. This link is clear by an instruction and a bolded yellow outline that appears when a mouse hovers over a book. Upon “opening” each book, there are five pieces of information. First, there is an image of the book inside cover. The title of the book is beside the image, but nearly unreadable due to the cursive font. The next is a description of what the book was “identified in the trial record.” Here the title is written again, this time in clearer font. At the end of the description, there is commentary to provide further context. At the bottom of the page, there is a link to a free Google Books version of the book. The only issue I had with the library is one untitled and unlinked book (tall, thin green; fifth from the right).
-**[IMAGE]**
- 
+![Digital Aponte digital library shelf](https://1drv.ms/u/s!Ar5q8Q_UGkel9WdE06iycSMuNzDz?e=WHimzi)
+
+The page for “Aponte’s Library” contains a visual that is simple and functional, as well as creative. It shows a shelf of books Aponte owned with the option to click for more information. This link is clear by an instruction and a faint gray outline that appears when a mouse hovers over a book. Upon “opening” each book, there are five pieces of information. First, there is an image of the book inside cover. The title of the book is beside the image, but nearly unreadable due to the cursive font. The next is a description of what the book was “identified in the trial record.” Here the title is written again, this time in clearer font. At the end of the description, there is commentary to provide further context. At the bottom of the page, there is a link to a free Google Books version of the book. The only issue I had with the library is one untitled and unlinked book (tall, thin green; fifth from the right).
+
+![Digital Aponte book page](https://dsm01pap002files.storage.live.com/y4mG19JZ4TyavKq540jX1-1EYHwDn-KXZdQmfsU-MN33XKTuPDSV6en-i3e1p9orJmcbNm9uPBZng196Z3cmlmtmN_UXJaE4_jTBIMy7pEEWtpJWSu23zSZP2SYXG2Sw6AhDKTU3BsipbAJs8ADjZIvN53plk5NTh7J8X-jxmtxgqKWnvW5MIUkuI7AEkjv1A16?width=1605&height=1070&cropmode=none)
+
 ## Links
  
 There were problems with a couple of the links. Two titles on the navigation bar “Book of Paintings” and “Visionary Aponte Exhibit” have subpages, but are not pages themselves. This is not clear until you hover over the titles. Nothing will happen if you click the former, but if you click latter, you have to go to another page before it will show the list of subpages again. I did not find it to be an obstructive issue. 
@@ -50,6 +51,8 @@ There were problems with a couple of the links. Two titles on the navigation bar
  
 Each "page" of the "book of paintings" had it's own webpage with many paths it. First, there is a page called “Láminas” which has a brief explanation of the “book of paintings” and a table. This table lists each lámina, the subjects on the page, and if it has commentary from one of the scholars. The table is very neat, which I appreciated. Additionally, every time a lámina is mentioned anywhere on the website, it is linked to it’s own page. There is also a button that links to the “Lámina” page at the bottom of the “Book of Paintings” page. However, I could not find lámina (sheet or page) defined anywhere on the site, which leads me to my main issue with the site.
  
+![Digital Aponte Láminas page, top of table visible](https://dsm01pap002files.storage.live.com/y4mFvnxeh2kHo68N1_sHV8qams4wSENOtGq_j7m31V_TwjGpMZ_uwmZw-Fst7Bf1hiIrj8YzOtPnfdDbIBZJbv1Bs2Ka804vVjxchzL37wrgGAYb7VZBSe8BgSmy6QXaaGsr2iCn2z6rsKEvXP1aj1n254Ts6hBfZo0E-JQ0pyuKbrIVch9KK9BrJn8PPvR657F?width=1172&height=1064&cropmode=none)
+
 # Advancement
  
 I am concerned about the accessibility of the project due to some of it being in English and some of it being in Spanish. The only page fully in English and Spanish advertises their gallery exhibit. Looking around the project, a viewer cannot predict what is going to be translated before clicking to the page.
@@ -58,7 +61,7 @@ As someone who speaks both languages, it was difficult to determine how much wou
  
 The láminas were all in their original Spanish, but the scholars’ commentary was in English. On their “Site’s News” page, there is an update from 5/20/2018 that explains the annotations,
  
-_"One of our goals in creating the website was to make the archival trial record, where Aponte describes his book, as accessible as possible. The annotations clarify portions of the trial record and help explain the visual references Aponte makes in his images.”_
+> "One of our goals in creating the website was to make the archival trial record, where Aponte describes his book, as accessible as possible. The annotations clarify portions of the trial record and help explain the visual references Aponte makes in his images.”
  
 The annotations are very helpful. However, without being able to read in both languages,  you will miss a part of the story. You can use Google Translate to translate each page to you, but it will not be as accurate as a true, mindful translation. There is context lost without it.
  
@@ -68,10 +71,4 @@ It is my understanding that this project is not complete. The team said as much 
  
 The main pages, “José Antonia Aponte,” “Image Gallery,” “Aponte’s Library,” “Aponte’s Havana,” and “Trial Transcript” and “Láminas” (both under “Book of Paintings”), work together to paint a picture of more than just a historical figure. With the images and quotes from Aponte, even the list of what is in the book, is a peak into life and hope in 1800s Cuba. With this echo of Aponte's work, the inspiration for another revolution will live on. 
 
-![Digital Aponte site header](https://1drv.ms/u/s!Ar5q8Q_UGkel9WvXJycp_I5hEKc-?e=9DEbkm)
-
-![Digital Aponte site header](file:///C:/Users/wlflo/OneDrive/Documents/ENGL%20350/DA%20library%20shelf.png)
-
-
-
-![Digital Aponte site header](https://dsm01pap002files.storage.live.com/y4mDAGXZhuJUxBdMyMlBjDQ3arjh7rmi2gXu2e8axLX09zLNey-47Lj6iLofoCUYpIhPmvC2ea48ZzWDZSsday16flerBkbGOY0sVgoF6lkPRkt-jZWJOqTubYrBVU1C3cgy2r6h-xgoR-YyLVJ0mCCyriUF5Clwc-VwtFQXEU9pkwEuSTzSdAF7m6E4OtdAmJI?width=1439&height=1067&cropmode=none)
+![Digital Aponte header, title in cursive, painting identified as “Calle Tacón” on Image Gallery page](https://dsm01pap002files.storage.live.com/y4mnYFEs8XpX7fVRwBqkr8AG6JKjXuR9skvBLthXK42KNJDPUNBrXOMnv_bGIfG4eJNfrytlcCjEKoOG9jt157aGm2uAugwcE7ZeneqBGQCYUJEuw3BsK4RoIpBC5F_zXsRvWyAIUOPoXy9EorrLaChpo4yrkWZx82YClnLx47w9chkI96Yr932eL9XNS7rURsH?width=1865&height=392&cropmode=none)
