@@ -37,7 +37,7 @@ Aside from the map of “Aponte’s Havana” and “Aponte’s Library,” whic
  
 ## Aponte’s library
  
-![Digital Aponte digital library shelf](https://1drv.ms/u/s!Ar5q8Q_UGkel9WdE06iycSMuNzDz?e=WHimzi)
+![Digital Aponte digital library shelf](https://dsm01pap002files.storage.live.com/y4mIhTCECeNaQD8bYCaF1rlOjbuVORZH9h1en_n1gzI9BmVAqMzzgfvIHcnnVLDUUxhey-GpTwQBtKImLVk97X2BFrrH1eZ_9VNGu8fvaYxF_XM3xgHNCqwZ4zruAjbFcxBeXy-3BU5XuGIa8gEtJBzrCMLCC4dvgoGH75uiarXlWjSZmQo9fhptcJ0_dBkFM-2?width=1553&height=1036&cropmode=none)
 
 The page for “Aponte’s Library” contains a visual that is simple and functional, as well as creative. It shows a shelf of books Aponte owned with the option to click for more information. This link is clear by an instruction and a faint gray outline that appears when a mouse hovers over a book. Upon “opening” each book, there are five pieces of information. First, there is an image of the book inside cover. The title of the book is beside the image, but nearly unreadable due to the cursive font. The next is a description of what the book was “identified in the trial record.” Here the title is written again, this time in clearer font. At the end of the description, there is commentary to provide further context. At the bottom of the page, there is a link to a free Google Books version of the book. The only issue I had with the library is one untitled and unlinked book (tall, thin green; fifth from the right).
 
