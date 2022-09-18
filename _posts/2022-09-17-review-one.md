@@ -71,3 +71,7 @@ The main pages, “José Antonia Aponte,” “Image Gallery,” “Aponte’s L
 ![Digital Aponte site header](https://1drv.ms/u/s!Ar5q8Q_UGkel9WvXJycp_I5hEKc-?e=9DEbkm)
 
 ![Digital Aponte site header](file:///C:/Users/wlflo/OneDrive/Documents/ENGL%20350/DA%20library%20shelf.png)
+
+
+
+![Digital Aponte site header](https://dsm01pap002files.storage.live.com/y4mDAGXZhuJUxBdMyMlBjDQ3arjh7rmi2gXu2e8axLX09zLNey-47Lj6iLofoCUYpIhPmvC2ea48ZzWDZSsday16flerBkbGOY0sVgoF6lkPRkt-jZWJOqTubYrBVU1C3cgy2r6h-xgoR-YyLVJ0mCCyriUF5Clwc-VwtFQXEU9pkwEuSTzSdAF7m6E4OtdAmJI?width=1439&height=1067&cropmode=none)
