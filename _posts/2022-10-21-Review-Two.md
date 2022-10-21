@@ -7,12 +7,12 @@ Dr. Catherine Emma “Kate” Jones
 *Project URL:*
 [http://bombsight.org/#15/51.5050/-0.0900](http://bombsight.org/#15/51.5050/-0.0900)
 
-![Historic image relating to the ward of Tachbrook](URL)
+![Historic image relating to the ward of Tachbrook](https://dsm01pap002files.storage.live.com/y4m5ry7-jofT1slGkpp2lS3CeZ9XkjGlO4Czn11n9A8tq-UPES6fABdbYyCU3Efzgn39po-M2LW-ZGfxTEsGOvJ_H3ApCOWxVimcB5e-kyqCZtSUNPWPs0du0_pT03osdR24RwiotxH30uPeAzx3RVxaTwCfZcRvzbtsddtF0UWBcR3eIbslrFE6N0ve9MIZtZF?width=566&height=600&cropmode=none)
 Image Caption: “Southwest London Garage Shelter, Pimlico: A group of Londoners play a game of cards to pass the time.”
 
 # Project Overview
 
-![Bomb Sight project map](URL)
+![Bomb Sight project map](https://dsm01pap002files.storage.live.com/y4m_NQO8X3UP13eElmiNmUABXGUF0TOeC1Tc4_nbfjyLOb9Z2IJt0EapPTq-Vv6iDJ8-3Ji5YhvWAbUYsVXn6wt2Uf_61FGlXHBO7YsjMxJCECTWkljeii5EMC8Q2r4OI1EgPrz9vftcq8LMFPv8rEtF48FzWzHBX7sdM4FkuFNe-WKJfi6LUWDeOJtAcrkr7gS?width=1877&height=999&cropmode=none)
 
 The Bomb Sight project illustrates the London Blitz. The Blitz was an “intense bombing campaign” employed by Nazi Germany on the United Kingdom during World War II [Britannica](https://www.britannica.com/event/the-Blitz). This project focuses on bombs dropped over London between July 10th, 1940 and June 6th, 1941. The map is supported and contextualized with local photographs from the time, as well as “memories” or first-hand accounts from survivors. 
 
@@ -21,7 +21,7 @@ The Bomb Sight project made information about the London Blitz that was previous
 # Humanistic Claims
 This project rests in historical studies. There is clearly a specific scope of information. That being said, it does not simply list numbers and places for a reader to shift through. The project, altogether, functions to give viewers the opportunity to do a deep dive into the history. Through the maps, statistics, images, and stories, a reader can put together a comprehensive understanding of the event. I found the project to be user-friendly and easily navigable. By being online, free, and friendly to non-scholars, the project brings more people into the conversation of the history of the London Blitz. 
 
-![Bomb Sight project detailing ward of Harlesden; map, memories, description, statistics, and an image](URL)
+![Bomb Sight project detailing ward of Harlesden; map, memories, description, statistics, and an image](https://dsm01pap002files.storage.live.com/y4mhw6YuN87-2dL1dmCp6PaqDq7Hj7dITP6UcUko0sIBdj4RCfliqR-lyR69Xfk48U6Cyvy2qXsKGur42ZStl4XyypBGAh7MmAeH0KFlHl5tKvf0j_vU-MEEvhxKEgqt7U_oWHPoZUlfhdp01Ieuk9dZgH1PabsnEj9lGFOylK9qPOC4K69m54atix2uS38ZwPf?width=1582&height=782&cropmode=none)
 
 # Technology
 The technology used and featured in this project made it comprehensive and easy to navigate as a user. Links and images were clearly labeled as clickable. The map had usage instructions (see “Information” button at header), which included a brief explanation of the purpose of the map, instructions of “How to use the Map,” as well as what information is available in the map.
@@ -36,7 +36,7 @@ To begin, the “Street Map View” of the map, as opposed to the “Satellite V
 
 I spent some time putting the color values into an online color contrast checker which quantifies how visible one color is next to another. The minimum standard of the Web Content Accessibility Guidelines (WCAG)  is 4.5:1 for regular-size text. For more information on this standard, see the [Contrast Checker](https://webaim.org/resources/contrastchecker/) I used from WebAIM.
 
-![WebAIM’s Contrast Checker](URL)
+![WebAIM’s Contrast Checker](https://dsm01pap002files.storage.live.com/y4mZ4ookOxniWRi4x6Hpug0Q2y-_O-Mbo5G9TPPWaq8anC8uv_OTadcCe_eFFCf9Vfd4KTZ0jov1j0eLmN5FpR3ZwwYNwkheL_ZwOE0jSgBFka6848k4lqcCcm2NmMmkfOHQPpj3khhL0lCqr_iCwLWzkNfwoX8ITDPD0dG1lMa6eGop9fF3lP1-OtDakilNCqR?width=994&height=703&cropmode=none)
 
 The text of the street names is light-gray on white streets, sometimes overlapping the dark-gray street outline. These colors in addition to the small font and non-linear positions, makes the street names difficult to read. The text of street names have a ratio of 1.51 to the street and 1.17 against the outlines, which fails the WCAG test. 
 
@@ -63,7 +63,7 @@ The maps and images took this project from something potentially imaginable from
 
 One unexpectedly impactful image I came across was the one shown at the beginning of this review and below.
 
-![Historic image relating to the ward of Tachbrook](URL)
+![Historic image relating to the ward of Tachbrook](https://dsm01pap002files.storage.live.com/y4m5ry7-jofT1slGkpp2lS3CeZ9XkjGlO4Czn11n9A8tq-UPES6fABdbYyCU3Efzgn39po-M2LW-ZGfxTEsGOvJ_H3ApCOWxVimcB5e-kyqCZtSUNPWPs0du0_pT03osdR24RwiotxH30uPeAzx3RVxaTwCfZcRvzbtsddtF0UWBcR3eIbslrFE6N0ve9MIZtZF?width=566&height=600&cropmode=none)
 Image Caption: “Southwest London Garage Shelter, Pimlico: A group of Londoners play a game of cards to pass the time.”
 
 At the bottom of the list of boroughs of the Greater London area on the “Explore London” page, there is a ward called Tachbrook. It has four images of people in the Southwest London Garage Shelter. Many of the related images, including the other three from this ward, are harrowing. They show people bundled in blankets and despair on the streets of the city. This image disrupts this pattern with a flash of normalcy. A reminder that no matter how dire the situation, people always come together to create entertainment and connection.
@@ -80,5 +80,5 @@ My proposal is to map the accessibility of CNU’s campus. If I moved forward wi
 
 While the Bomb Sight project of 1940-41 London may appear very different from my project of present-day Christopher Newport University, both share a purpose at their cores: they tell a story of their space and time.
 
-![Historic image relating to Camden Town with Primrose Hill](URL)
+![Historic image relating to Camden Town with Primrose Hill](https://dsm01pap002files.storage.live.com/y4m5h0GAgnkoRmYa9pa3JrHhIN00msSICJ6R97lC8t-L4-N8JWomE8Bxlb6trUV6Uxyzok4-NxQhY-C99sLh8dI-CwZk0q0M-MtCXFYoi9eLQJx1WaI8ChPmAw5r-naAHE3Mz5am1vG4cB42RIrExsUROhvd9pJ5Jc34puuVxu-ItuFjE9jj4eqfjoKOLxY8rVu?width=780&height=600&cropmode=none)
 Image Caption: “Czech soldiers and airmen buy tobacco from a salesgirl at a tobacconist’s shop in Camden Town, London in 1940. Note the large criss-cross of tape across the large shop windows to prevent them from shattering during an air raid.”
