@@ -8,7 +8,8 @@ Dr. Catherine Emma “Kate” Jones
 [http://bombsight.org/#15/51.5050/-0.0900](http://bombsight.org/#15/51.5050/-0.0900)
 
 ![Historic image relating to the ward of Tachbrook](https://dsm01pap002files.storage.live.com/y4m5ry7-jofT1slGkpp2lS3CeZ9XkjGlO4Czn11n9A8tq-UPES6fABdbYyCU3Efzgn39po-M2LW-ZGfxTEsGOvJ_H3ApCOWxVimcB5e-kyqCZtSUNPWPs0du0_pT03osdR24RwiotxH30uPeAzx3RVxaTwCfZcRvzbtsddtF0UWBcR3eIbslrFE6N0ve9MIZtZF?width=566&height=600&cropmode=none)
-Image Caption: “Southwest London Garage Shelter, Pimlico: A group of Londoners play a game of cards to pass the time.”
+
+_Image Caption: “Southwest London Garage Shelter, Pimlico: A group of Londoners play a game of cards to pass the time.”_
 
 # Project Overview
 
@@ -64,7 +65,8 @@ The maps and images took this project from something potentially imaginable from
 One unexpectedly impactful image I came across was the one shown at the beginning of this review and below.
 
 ![Historic image relating to the ward of Tachbrook](https://dsm01pap002files.storage.live.com/y4m5ry7-jofT1slGkpp2lS3CeZ9XkjGlO4Czn11n9A8tq-UPES6fABdbYyCU3Efzgn39po-M2LW-ZGfxTEsGOvJ_H3ApCOWxVimcB5e-kyqCZtSUNPWPs0du0_pT03osdR24RwiotxH30uPeAzx3RVxaTwCfZcRvzbtsddtF0UWBcR3eIbslrFE6N0ve9MIZtZF?width=566&height=600&cropmode=none)
-Image Caption: “Southwest London Garage Shelter, Pimlico: A group of Londoners play a game of cards to pass the time.”
+
+_Image Caption: “Southwest London Garage Shelter, Pimlico: A group of Londoners play a game of cards to pass the time.”_
 
 At the bottom of the list of boroughs of the Greater London area on the “Explore London” page, there is a ward called Tachbrook. It has four images of people in the Southwest London Garage Shelter. Many of the related images, including the other three from this ward, are harrowing. They show people bundled in blankets and despair on the streets of the city. This image disrupts this pattern with a flash of normalcy. A reminder that no matter how dire the situation, people always come together to create entertainment and connection.
 
@@ -81,4 +83,5 @@ My proposal is to map the accessibility of CNU’s campus. If I moved forward wi
 While the Bomb Sight project of 1940-41 London may appear very different from my project of present-day Christopher Newport University, both share a purpose at their cores: they tell a story of their space and time.
 
 ![Historic image relating to Camden Town with Primrose Hill](https://dsm01pap002files.storage.live.com/y4m5h0GAgnkoRmYa9pa3JrHhIN00msSICJ6R97lC8t-L4-N8JWomE8Bxlb6trUV6Uxyzok4-NxQhY-C99sLh8dI-CwZk0q0M-MtCXFYoi9eLQJx1WaI8ChPmAw5r-naAHE3Mz5am1vG4cB42RIrExsUROhvd9pJ5Jc34puuVxu-ItuFjE9jj4eqfjoKOLxY8rVu?width=780&height=600&cropmode=none)
-Image Caption: “Czech soldiers and airmen buy tobacco from a salesgirl at a tobacconist’s shop in Camden Town, London in 1940. Note the large criss-cross of tape across the large shop windows to prevent them from shattering during an air raid.”
+
+_Image Caption: “Czech soldiers and airmen buy tobacco from a salesgirl at a tobacconist’s shop in Camden Town, London in 1940. Note the large criss-cross of tape across the large shop windows to prevent them from shattering during an air raid.”_
