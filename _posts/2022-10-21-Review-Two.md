@@ -1,10 +1,10 @@
-*Project:*
+**Project:**
 Bomb Sight: Mapping the WW2 Bomb Census
 
-*Project Director(s):*
+**Project Director(s):**
 Dr. Catherine Emma “Kate” Jones
 
-*Project URL:*
+**Project URL:**
 [http://bombsight.org/#15/51.5050/-0.0900](http://bombsight.org/#15/51.5050/-0.0900)
 
 ![Historic image relating to the ward of Tachbrook](https://dsm01pap002files.storage.live.com/y4m5ry7-jofT1slGkpp2lS3CeZ9XkjGlO4Czn11n9A8tq-UPES6fABdbYyCU3Efzgn39po-M2LW-ZGfxTEsGOvJ_H3ApCOWxVimcB5e-kyqCZtSUNPWPs0du0_pT03osdR24RwiotxH30uPeAzx3RVxaTwCfZcRvzbtsddtF0UWBcR3eIbslrFE6N0ve9MIZtZF?width=566&height=600&cropmode=none)
