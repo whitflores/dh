@@ -46,4 +46,4 @@ I plan to apply for the URCA grant next fall with Dr. Stover as my advisor. Havi
 ![Page of my project with CNU resources](https://dsm04pap002files.storage.live.com/y4mWw4lLcigKE4iV8haZeT4YQOtxxwMhNwctLf98ynZl_Ape6JjTes1KU36roH9DqnChO0IS41t-Ygxj-xetTl2xgUzLmA5_PsuSftDshciatgOaP_qM7W1mjS0OEcE2cWotEwM8N30vFfOUxk9-dHoMezaGgP_wRbSOwOgA5t-uchS6TCuzbD4vAC2I0sxDMW2?width=1793&height=1002&cropmode=none)
 
 # That Is All To Say
-So yeah, I’d say I’ve grown as a digital humanist. I went from not realizing I wanted to be one to starting the process of becoming one in fifteen short weeks.
+Throughout this class, I’ve grown as a digital humanist. I went from not realizing I wanted to be one to starting the process of becoming one in fifteen short weeks.
